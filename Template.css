@@ -1,0 +1,53 @@
+html
+{
+font-family: "Georgia";;
+}
+header
+{
+background: #ffffe6;
+text-align:center;
+}
+nav
+{
+background: #ffffe6; 
+padding-top: 1.83%;
+padding-bottom: 1.83%;
+text-align:center;
+}
+article
+{
+background:#ffffe6;
+font-family: "Georgia";
+font-size: 100%;
+max-width: 58.5%;
+padding: 1.83%;
+margin: auto;
+}
+body
+{
+background:#da3e3e;
+line-height: 2.0;
+margin: auto;
+}
+footer
+{
+color: #ffffe6;
+}
+p
+{
+text-indent: 6.5%;
+}
+textarea
+{
+resize: none
+}
+form
+{
+background:#ffffe6;
+padding-left: 1.83%;
+padding-right: 1.83%;
+margin-top: 1.83%;
+margin-bottom: 1.83%;
+margin-left: 18.9%;
+margin-right: 18.9%;
+}
